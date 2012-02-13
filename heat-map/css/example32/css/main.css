@@ -1,0 +1,4 @@
+body{background:#eee;font-family:Verdana, Helvetica, Arial, sans-serif;margin:0;padding:0}
+.examples{background:#FFF;width:800px;font-size:80%;border:1px #000 solid;margin:3.5em auto 2em;padding:1em 2em 2em}
+.column{float:left;width:45%;padding:20px}
+.box{-moz-border-radius:5px;background-color:#DDD;border:1px solid #000;clear:both;width:50%;margin:10px auto;padding:10px}

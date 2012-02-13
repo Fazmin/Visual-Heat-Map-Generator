@@ -1,0 +1,11 @@
+/* Remove unwanted elements */
+#topcontainer
+{
+display: none;
+}
+
+/* Ensure the content spans the full width */
+#datacontainer
+{
+width: 100%; margin: 0;
+}
