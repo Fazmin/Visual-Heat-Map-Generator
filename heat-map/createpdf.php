@@ -1,5 +1,5 @@
 <?php
-
+//Create PDF
 include("mpdf/mpdf.php");
 
 if(isset($_POST['printdata'])) {
